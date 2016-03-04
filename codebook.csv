@@ -1,0 +1,84 @@
+Variable,description,"time (t) or
+frequency domain (f)","direction (X, Y, or Z)","type (mean of mean, 
+mean of standard deviation)"
+Activity,"Human activity being described: ""WALKING"", ""WALKING_UPSTAIRS"", ""WALKING_DOWNSTAIRS"", ""SITTING"", ""STANDING"", ""LAYING""",NA,NA,NA
+SubjectNumber,Human subject number: 1-30,NA,NA,NA
+tBodyAcc.mean...X,linear body acceleration,t,X,mean of mean
+tBodyAcc.mean...Y,linear body acceleration,t,Y,mean of mean
+tBodyAcc.mean...Z,linear body acceleration,t,Z,mean of mean
+tBodyAcc.std...X,linear body acceleration,t,X,mean of standard deviation
+tBodyAcc.std...Y,linear body acceleration,t,Y,mean of standard deviation
+tBodyAcc.std...Z,linear body acceleration,t,Z,mean of standard deviation
+tGravityAcc.mean...X,linear gravity acceleration,t,X,mean of mean
+tGravityAcc.mean...Y,linear gravity acceleration,t,Y,mean of mean
+tGravityAcc.mean...Z,linear gravity acceleration,t,Z,mean of mean
+tGravityAcc.std...X,linear gravity acceleration,t,X,mean of standard deviation
+tGravityAcc.std...Y,linear gravity acceleration,t,Y,mean of standard deviation
+tGravityAcc.std...Z,linear gravity acceleration,t,Z,mean of standard deviation
+tBodyAccJerk.mean...X,linear body acceleration,t,X,mean of mean
+tBodyAccJerk.mean...Y,linear body acceleration,t,Y,mean of mean
+tBodyAccJerk.mean...Z,linear body acceleration,t,Z,mean of mean
+tBodyAccJerk.std...X,linear body acceleration,t,X,mean of standard deviation
+tBodyAccJerk.std...Y,linear body acceleration,t,Y,mean of standard deviation
+tBodyAccJerk.std...Z,linear body acceleration,t,Z,mean of standard deviation
+tBodyGyro.mean...X,angular body acceleration,t,X,mean of mean
+tBodyGyro.mean...Y,angular body acceleration,t,Y,mean of mean
+tBodyGyro.mean...Z,angular body acceleration,t,Z,mean of mean
+tBodyGyro.std...X,angular body acceleration,t,X,mean of standard deviation
+tBodyGyro.std...Y,angular body acceleration,t,Y,mean of standard deviation
+tBodyGyro.std...Z,angular body acceleration,t,Z,mean of standard deviation
+tBodyGyroJerk.mean...X,angular body acceleration,t,X,mean of mean
+tBodyGyroJerk.mean...Y,angular body acceleration,t,Y,mean of mean
+tBodyGyroJerk.mean...Z,angular body acceleration,t,Z,mean of mean
+tBodyGyroJerk.std...X,angular body acceleration,t,X,mean of standard deviation
+tBodyGyroJerk.std...Y,angular body acceleration,t,Y,mean of standard deviation
+tBodyGyroJerk.std...Z,angular body acceleration,t,Z,mean of standard deviation
+tBodyAccMag.mean..,magnitude - linear body acceleration,t,NA,mean of mean
+tBodyAccMag.std..,magnitude - linear body acceleration,t,NA,mean of standard deviation
+tGravityAccMag.mean..,magnitude - linear gravity acceleration,t,NA,mean of mean
+tGravityAccMag.std..,magnitude - linear gravity acceleration,t,NA,mean of standard deviation
+tBodyAccJerkMag.mean..,magnitude - linear body acceleration,t,NA,mean of mean
+tBodyAccJerkMag.std..,magnitude - linear body acceleration,t,NA,mean of standard deviation
+tBodyGyroMag.mean..,magnitude - angular body acceleration,t,NA,mean of mean
+tBodyGyroMag.std..,magnitude - angular body acceleration,t,NA,mean of standard deviation
+tBodyGyroJerkMag.mean..,magnitude - angular body acceleration,t,NA,mean of mean
+tBodyGyroJerkMag.std..,magnitude - angular body acceleration,t,NA,mean of standard deviation
+fBodyAcc.mean...X,linear body acceleration,f,X,mean of mean
+fBodyAcc.mean...Y,linear body acceleration,f,Y,mean of mean
+fBodyAcc.mean...Z,linear body acceleration,f,Z,mean of mean
+fBodyAcc.std...X,linear body acceleration,f,X,mean of standard deviation
+fBodyAcc.std...Y,linear body acceleration,f,Y,mean of standard deviation
+fBodyAcc.std...Z,linear body acceleration,f,Z,mean of standard deviation
+fBodyAcc.meanFreq...X,linear body acceleration,f,X,mean of mean
+fBodyAcc.meanFreq...Y,linear body acceleration,f,Y,mean of mean
+fBodyAcc.meanFreq...Z,linear body acceleration,f,Z,mean of mean
+fBodyAccJerk.mean...X,linear body acceleration,f,X,mean of mean
+fBodyAccJerk.mean...Y,linear body acceleration,f,Y,mean of mean
+fBodyAccJerk.mean...Z,linear body acceleration,f,Z,mean of mean
+fBodyAccJerk.std...X,linear body acceleration,f,X,mean of standard deviation
+fBodyAccJerk.std...Y,linear body acceleration,f,Y,mean of standard deviation
+fBodyAccJerk.std...Z,linear body acceleration,f,Z,mean of standard deviation
+fBodyAccJerk.meanFreq...X,linear body acceleration,f,X,mean of mean
+fBodyAccJerk.meanFreq...Y,linear body acceleration,f,Y,mean of mean
+fBodyAccJerk.meanFreq...Z,linear body acceleration,f,Z,mean of mean
+fBodyGyro.mean...X,angular body acceleration,f,X,mean of mean
+fBodyGyro.mean...Y,angular body acceleration,f,Y,mean of mean
+fBodyGyro.mean...Z,angular body acceleration,f,Z,mean of mean
+fBodyGyro.std...X,angular body acceleration,f,X,mean of standard deviation
+fBodyGyro.std...Y,angular body acceleration,f,Y,mean of standard deviation
+fBodyGyro.std...Z,angular body acceleration,f,Z,mean of standard deviation
+fBodyGyro.meanFreq...X,angular body acceleration,f,X,mean of mean
+fBodyGyro.meanFreq...Y,angular body acceleration,f,Y,mean of mean
+fBodyGyro.meanFreq...Z,angular body acceleration,f,Z,mean of mean
+fBodyAccMag.mean..,magnitude - linear body acceleration,f,NA,mean of mean
+fBodyAccMag.std..,magnitude - linear body acceleration,f,NA,mean of standard deviation
+fBodyAccMag.meanFreq..,magnitude - linear body acceleration,f,NA,mean of mean
+fBodyBodyAccJerkMag.mean..,magnitude - linear body acceleration,f,NA,mean of mean
+fBodyBodyAccJerkMag.std..,magnitude - linear body acceleration,f,NA,mean of standard deviation
+fBodyBodyAccJerkMag.meanFreq..,magnitude - linear body acceleration,f,NA,mean of mean
+fBodyBodyGyroMag.mean..,magnitude - angular body acceleration,f,NA,mean of mean
+fBodyBodyGyroMag.std..,magnitude - angular body acceleration,f,NA,mean of standard deviation
+fBodyBodyGyroMag.meanFreq..,magnitude - angular body acceleration,f,NA,mean of mean
+fBodyBodyGyroJerkMag.mean..,magnitude - angular body acceleration,f,NA,mean of mean
+fBodyBodyGyroJerkMag.std..,magnitude - angular body acceleration,f,NA,mean of standard deviation
+fBodyBodyGyroJerkMag.meanFreq..,magnitude - angular body acceleration,f,NA,mean of mean
